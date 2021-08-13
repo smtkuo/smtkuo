@@ -1,5 +1,5 @@
-Hi there 👋
-⚡ I’m currently working on PHP/Laravel, Javascript, Node.js, Cordova
+<p>Hi there 👋</p>
+<p>⚡ I’m currently working on PHP/Laravel, Javascript, Node.js, Cordova</p>
 
 <!--
 **smtkuo/smtkuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
